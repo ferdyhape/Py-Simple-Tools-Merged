@@ -50,8 +50,11 @@ The **PY Simple Tools - Merged** project simplifies daily workflows by turning c
 
 ## Usage
 
-To start using the tools, run the following command:
-
-```bash
-python main.py
-```
+1. Ensure the virtual environment is activated:
+   ```bash
+   source venv/bin/activate
+   ```
+2. Run the main.py file
+   ```bash
+   python main.py
+   ```
