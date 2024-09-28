@@ -1,8 +1,8 @@
-# PY Simple Tools - Merge
+# PY Simple Tools - Merged
 
 ## Description
 
-The **PY Simple Tools - Merge** project simplifies daily workflows by turning complex tasks into easy, manageable steps. As an _open-source_ project, it welcomes contributions from developers. If you'd like to help improve the project and make daily tasks easier, we invite you to contribute your skills and ideas.
+The **PY Simple Tools - Merged** project simplifies daily workflows by turning complex tasks into easy, manageable steps. As an _open-source_ project, it welcomes contributions from developers. If you'd like to help improve the project and make daily tasks easier, we invite you to contribute your skills and ideas.
 
 ## Features
 
